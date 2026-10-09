@@ -1,0 +1,10 @@
+{
+  "name": "Inès Boutbig - Voice Assistant CV & Luxury Client Advisor",
+  "description": "Interactive multilingual voice assistant & luxury portfolio showcasing Inès Boutbig: Master in Luxury Marketing at ESCE Paris, Client Advisor at Galeries Lafayette, multilingual talent (EN/FR/AR/ES).",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
